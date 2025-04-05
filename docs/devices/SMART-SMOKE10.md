@@ -28,6 +28,16 @@ pageClass: device-page
 ### Pairing
 Press the test button 3 times (until the red LED stays on).
 After this the device will reset and try to join a network.
+
+Alternative:
+
+* Make sure that the coordinator is in joinable state.
+* Use a pair of fresh batteries, as the one supplied are almost empty already!
+* Remove 1 battery (if they were already inserted) and press the button.
+* Insert the battery and...
+* Quickly press 3 times.
+
+(ref: https://github.com/Koenkk/zigbee2mqtt/issues/18331#issuecomment-1666537226)
 <!-- Notes END: Do not edit below this line -->
 
 
